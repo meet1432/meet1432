@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Meet Patel</h1>
 <h3 align="center">A passionate Full Stack Developer developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malay-thakkar&label=Profile%20views&color=0e75b6&style=flat" alt="malay-thakkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meet1432&label=Profile%20views&color=0e75b6&style=flat" alt="meet1432" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://malaythakkar.me/)
+- 👨‍💻 All of my projects are available at [Portfolio]()
 
 - 📫 How to reach me **meet.patel@drcsystems@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/malay-thakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malay-thakkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meet1432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet1432" height="30" width="40" /></a>
 <a href="https://instagram.com/thakkar_malay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakkar_malay" height="30" width="40" /></a>
 </p>
 
@@ -28,13 +28,13 @@
 </p>
 <!-- -------------- -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=malay-thakkar&theme=onedark" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=meet1432&theme=onedark" width="100%">
 
-<img src="https://github-readme-stats-plum-eta.vercel.app/api?username=malay-thakkar&show_icons=true&theme=tokyonight" width="54.6%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malay-thakkar&layout=compact&show_icons=true&theme=radical" width="45.4%">
+<img src="https://github-readme-stats-plum-eta.vercel.app/api?username=meet1432&show_icons=true&theme=tokyonight" width="54.6%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet1432&layout=compact&show_icons=true&theme=radical" width="45.4%">
 
 
 <!-- --------------- -->
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malay-thakkar&theme=onedark"" alt="malay-thakkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meet1432&theme=onedark"" alt="meet1432" /></p>
