@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/meet1432](https://www.linkedin.com/in/meet-patel-40814317b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet1432" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meet-patel-40814317b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet1432" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_me_et" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patel_meet" height="30" width="40" /></a>
 </p>
 
