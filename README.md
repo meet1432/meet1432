@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio]()
 
-- 📫 How to reach me **meet.patel@drcsystems@gmail.com**
+- 📫 How to reach me **meet.patel@drcsystems.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
