@@ -38,3 +38,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meet1432&theme=onedark"" alt="meet1432" /></p>
+
+![Snake animation](https://github.com/meet1432/meet1432/blob/output/github-contribution-grid-snake.svg)
